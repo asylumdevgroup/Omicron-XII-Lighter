@@ -1,0 +1,6 @@
+{
+    "packAuthor": "asylumdev",
+    "minecraftVersion": "1.12.2",
+    "forgeVersion": "14.23.5.2847",
+    "includes": ["config", "scripts", "resources"]
+}

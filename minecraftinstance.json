@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-12-07T19:34:13.8928609Z",
+  "lastPlayed": "2019-12-15T00:03:30.2360938Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -589,21 +589,6 @@
       "fileSize": 4754821
     },
     {
-      "folderName": "jei_1.12.2-4.15.0.292.jar",
-      "fingerprint": 1543061976,
-      "fileDateHash": 369344872,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1543061976
-      ],
-      "status": 1,
-      "timestamp": "2019-11-25T01:39:35.8265168Z",
-      "lastWriteTimeUtc": "2019-11-25T01:39:34.2198135Z",
-      "queryTimestamp": "2019-11-25T01:39:36.0858234Z",
-      "fileCount": 1,
-      "fileSize": 651472
-    },
-    {
       "folderName": "Baubles-1.12-1.5.2.jar",
       "fingerprint": 4247051032,
       "fileDateHash": 114510130,
@@ -617,6 +602,21 @@
       "queryTimestamp": "2019-11-25T01:39:30.7181772Z",
       "fileCount": 1,
       "fileSize": 108450
+    },
+    {
+      "folderName": "jei_1.12.2-4.15.0.292.jar",
+      "fingerprint": 1543061976,
+      "fileDateHash": 369344872,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1543061976
+      ],
+      "status": 1,
+      "timestamp": "2019-11-25T01:39:35.8265168Z",
+      "lastWriteTimeUtc": "2019-11-25T01:39:34.2198135Z",
+      "queryTimestamp": "2019-11-25T01:39:36.0858234Z",
+      "fileCount": 1,
+      "fileSize": 651472
     },
     {
       "folderName": "UniDict-1.12.2-2.9.3.jar",
@@ -662,19 +662,6 @@
       "fileSize": 43764
     },
     {
-      "folderName": "Botania r1.10-362.jar",
-      "fingerprint": 0,
-      "fileDateHash": 2578540334,
-      "sectionID": 8,
-      "individualFingerprints": null,
-      "status": 4,
-      "timestamp": "2019-11-25T01:39:37.8301585Z",
-      "lastWriteTimeUtc": "2019-11-25T01:39:28.2926643Z",
-      "queryTimestamp": "0001-01-01T00:00:00",
-      "fileCount": 1,
-      "fileSize": 671744
-    },
-    {
       "folderName": "reauth-3.6.0.jar",
       "fingerprint": 1809264525,
       "fileDateHash": 627008528,
@@ -688,6 +675,19 @@
       "queryTimestamp": "2019-11-25T01:39:24.5756036Z",
       "fileCount": 1,
       "fileSize": 30446
+    },
+    {
+      "folderName": "Botania r1.10-362.jar",
+      "fingerprint": 0,
+      "fileDateHash": 2578540334,
+      "sectionID": 8,
+      "individualFingerprints": null,
+      "status": 4,
+      "timestamp": "2019-11-25T01:39:37.8301585Z",
+      "lastWriteTimeUtc": "2019-11-25T01:39:28.2926643Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
+      "fileCount": 1,
+      "fileSize": 671744
     }
   ],
   "isValid": true,
@@ -2786,23 +2786,17 @@
       "addonID": 32274,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2835429,
-        "displayName": "journeymap-1.12.2-5.5.6b1",
-        "fileName": "journeymap-1.12.2-5.5.6b1.jar",
-        "fileDate": "2019-12-01T17:53:42.293Z",
-        "fileLength": 1923763,
+        "id": 2841588,
+        "displayName": "journeymap-1.12.2-5.5.6b2",
+        "fileName": "journeymap-1.12.2-5.5.6b2.jar",
+        "fileDate": "2019-12-12T13:22:02.647Z",
+        "fileLength": 1923234,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2835/429/journeymap-1.12.2-5.5.6b1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/588/journeymap-1.12.2-5.5.6b2.jar",
         "isAlternate": false,
-        "alternateFileId": 2835430,
+        "alternateFileId": 2841589,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 242519,
-            "type": 1,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 226005,
@@ -2814,7 +2808,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3431685974,
+            "fingerprint": 228724715,
             "type": 0
           },
           {
@@ -2824,7 +2818,7 @@
           },
           {
             "foldername": "journeymap",
-            "fingerprint": 1176504704,
+            "fingerprint": 2105773659,
             "type": 0
           },
           {
@@ -2844,21 +2838,21 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2271751419,
+            "fingerprint": 412223077,
             "type": 0
           },
           {
             "foldername": "license.txt",
-            "fingerprint": 2590091888,
+            "fingerprint": 2741412985,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2942459830,
+            "fingerprint": 1364874573,
             "type": 0
           }
         ],
-        "packageFingerprint": 3415776570,
+        "packageFingerprint": 2509187530,
         "gameVersion": [
           "1.12.2"
         ],
@@ -2871,11 +2865,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "journeymap-1.12.2-5.5.6b1.jar"
+        "FileNameOnDisk": "journeymap-1.12.2-5.5.6b2.jar"
       },
       "dateInstalled": "2019-11-25T01:39:31.4282787Z",
-      "dateUpdated": "2019-12-07T19:33:49.9189632Z",
-      "dateLastUpdateAttempted": "2019-12-07T19:33:49.9189632Z",
+      "dateUpdated": "2019-12-14T23:57:55.3225127Z",
+      "dateLastUpdateAttempted": "2019-12-14T23:57:55.3225127Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3312,7 +3306,7 @@
       "dateInstalled": "2019-11-25T01:39:35.1353649Z",
       "dateUpdated": "2019-12-07T19:33:47.721838Z",
       "dateLastUpdateAttempted": "2019-12-07T19:33:47.721838Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

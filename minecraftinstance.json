@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-12-28T23:01:11.3243225Z",
+  "lastPlayed": "2020-02-03T00:34:44.5574189Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -801,7 +801,7 @@
       "dateInstalled": "2019-11-08T01:43:08.8598389Z",
       "dateUpdated": "2019-12-28T23:00:18.6870418Z",
       "dateLastUpdateAttempted": "2019-12-28T23:00:18.6870418Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2768,16 +2768,16 @@
       "addonID": 32274,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2844789,
-        "displayName": "journeymap-1.12.2-5.5.6",
-        "fileName": "journeymap-1.12.2-5.5.6.jar",
-        "fileDate": "2019-12-18T14:31:23.887Z",
-        "fileLength": 1933605,
+        "id": 2873185,
+        "displayName": "journeymap-1.12.2-5.5.8",
+        "fileName": "journeymap-1.12.2-5.5.8.jar",
+        "fileDate": "2020-02-01T18:56:47.963Z",
+        "fileLength": 1934386,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2844/789/journeymap-1.12.2-5.5.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2873/185/journeymap-1.12.2-5.5.8.jar",
         "isAlternate": false,
-        "alternateFileId": 2844790,
+        "alternateFileId": 2873186,
         "dependencies": [
           {
             "id": 0,
@@ -2790,7 +2790,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 314996738,
+            "fingerprint": 1903379127,
             "type": 0
           },
           {
@@ -2800,7 +2800,7 @@
           },
           {
             "foldername": "journeymap",
-            "fingerprint": 3591818639,
+            "fingerprint": 1911418507,
             "type": 0
           },
           {
@@ -2825,16 +2825,16 @@
           },
           {
             "foldername": "license.txt",
-            "fingerprint": 59702107,
+            "fingerprint": 1366223140,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2807992006,
+            "fingerprint": 2949446781,
             "type": 0
           }
         ],
-        "packageFingerprint": 1184925075,
+        "packageFingerprint": 1776345287,
         "gameVersion": [
           "1.12.2"
         ],
@@ -2847,12 +2847,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "journeymap-1.12.2-5.5.6.jar"
+        "FileNameOnDisk": "journeymap-1.12.2-5.5.8.jar"
       },
       "dateInstalled": "2019-11-25T01:39:31.4282787Z",
-      "dateUpdated": "2019-12-22T04:44:58.2704264Z",
-      "dateLastUpdateAttempted": "2019-12-22T04:44:58.2704264Z",
-      "status": 5,
+      "dateUpdated": "2020-02-03T00:34:19.4794935Z",
+      "dateLastUpdateAttempted": "2020-02-03T00:34:19.4794935Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2953,14 +2953,14 @@
       "addonID": 226406,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2638282,
-        "displayName": "CustomMainMenu-MC1.12.2-2.0.9.jar",
-        "fileName": "CustomMainMenu-MC1.12.2-2.0.9.jar",
-        "fileDate": "2018-11-15T15:01:56.787Z",
-        "fileLength": 177791,
+        "id": 2857869,
+        "displayName": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+        "fileName": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+        "fileDate": "2020-01-10T17:57:03.183Z",
+        "fileLength": 91121,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2638/282/CustomMainMenu-MC1.12.2-2.0.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2857/869/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -2968,61 +2968,49 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3274517062,
-            "type": 3
+            "fingerprint": 611081551,
+            "type": 0
           },
           {
             "foldername": "lumien",
-            "fingerprint": 280215516,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 105512192,
-            "type": 3
+            "fingerprint": 3904034323,
+            "type": 0
           },
           {
             "foldername": "assets",
             "fingerprint": 1659821724,
-            "type": 3
+            "type": 0
           },
           {
-            "foldername": "net",
-            "fingerprint": 210089498,
-            "type": 3
+            "foldername": "mcmod.info",
+            "fingerprint": 2769122793,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 622526263,
+            "type": 0
           }
         ],
-        "packageFingerprint": 3309587501,
+        "packageFingerprint": 3526146934,
         "gameVersion": [
           "1.12.2"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1472332,
-        "projectId": 226406,
-        "packageFingerprintId": 275617245,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1698934,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CustomMainMenu-MC1.12.2-2.0.9.jar"
+        "FileNameOnDisk": "CustomMainMenu-MC1.12.2-2.0.9.1.jar"
       },
       "dateInstalled": "2019-11-25T01:39:31.4272811Z",
-      "dateUpdated": "2018-11-25T01:39:31.4272811Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2020-02-03T00:34:15.4313214Z",
+      "dateLastUpdateAttempted": "2020-02-03T00:34:15.4313214Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3794,7 +3782,7 @@
       "dateInstalled": "2019-11-25T01:39:36.4119514Z",
       "dateUpdated": "2019-12-28T23:00:21.7608243Z",
       "dateLastUpdateAttempted": "2019-12-28T23:00:21.7608243Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4091,95 +4079,83 @@
       "addonID": 244258,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2796682,
-        "displayName": "UniDict-1.12.2-2.9.3.jar",
-        "fileName": "UniDict-1.12.2-2.9.3.jar",
-        "fileDate": "2019-09-27T15:41:47.737Z",
-        "fileLength": 185166,
+        "id": 2865286,
+        "displayName": "UniDict-1.12.2-2.9.5.jar",
+        "fileName": "UniDict-1.12.2-2.9.5.jar",
+        "fileDate": "2020-01-21T20:37:45.853Z",
+        "fileLength": 185462,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2796/682/UniDict-1.12.2-2.9.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2865/286/UniDict-1.12.2-2.9.5.jar",
         "isAlternate": false,
-        "alternateFileId": 2796685,
+        "alternateFileId": 2865287,
         "dependencies": [
           {
-            "id": 31323197,
+            "id": 0,
             "addonId": 239197,
             "type": 2,
-            "fileId": 2796682
+            "fileId": 0
           },
           {
-            "id": 31323198,
-            "addonId": 277047,
-            "type": 2,
-            "fileId": 2796682
-          },
-          {
-            "id": 31323199,
+            "id": 0,
             "addonId": 253043,
             "type": 3,
-            "fileId": 2796682
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 277047,
+            "type": 2,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3595289104,
-            "type": 3
+            "fingerprint": 1085241029,
+            "type": 0
           },
           {
             "foldername": "wanion",
-            "fingerprint": 3472090772,
-            "type": 3
+            "fingerprint": 957856989,
+            "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1875477421,
-            "type": 3
+            "fingerprint": 2530942226,
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 2081512886,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "unidictlogo.png",
             "fingerprint": 3434512620,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 2421688368,
+        "packageFingerprint": 3327194491,
         "gameVersion": [
           "1.12.2"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1665930,
-        "projectId": 244258,
-        "packageFingerprintId": 361233697,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1950658,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "UniDict-1.12.2-2.9.3.jar"
+        "FileNameOnDisk": "UniDict-1.12.2-2.9.5.jar"
       },
       "dateInstalled": "2019-11-25T01:39:36.4129483Z",
-      "dateUpdated": "2018-11-25T01:39:36.4129483Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2020-02-03T00:34:22.8933625Z",
+      "dateLastUpdateAttempted": "2020-02-03T00:34:22.8933625Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

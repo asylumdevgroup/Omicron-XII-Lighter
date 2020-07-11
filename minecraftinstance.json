@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-06-28T00:37:45.8681004Z",
+  "lastPlayed": "2020-07-11T23:08:33.2776654Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1046,7 +1046,7 @@
       "dateInstalled": "2019-11-08T01:43:08.8608363Z",
       "dateUpdated": "2020-06-28T00:37:10.8316945Z",
       "dateLastUpdateAttempted": "2020-06-28T00:37:10.8316945Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2373,7 +2373,7 @@
       "dateInstalled": "2020-06-11T02:28:22.4239868Z",
       "dateUpdated": "2020-06-28T00:37:13.5284779Z",
       "dateLastUpdateAttempted": "2020-06-28T00:37:13.5284779Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3251,7 +3251,7 @@
       "dateInstalled": "2019-11-25T01:39:35.1353649Z",
       "dateUpdated": "2020-06-28T00:37:16.4167474Z",
       "dateLastUpdateAttempted": "2020-06-28T00:37:16.4167474Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3700,14 +3700,14 @@
       "addonID": 238222,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2988828,
-        "displayName": "jei_1.12.2-4.15.0.296.jar",
-        "fileName": "jei_1.12.2-4.15.0.296.jar",
-        "fileDate": "2020-06-25T23:02:35.42Z",
-        "fileLength": 653115,
-        "releaseType": 1,
+        "id": 2995897,
+        "displayName": "jei_1.12.2-4.15.0.297.jar",
+        "fileName": "jei_1.12.2-4.15.0.297.jar",
+        "fileDate": "2020-07-03T22:57:33.617Z",
+        "fileLength": 653150,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2988/828/jei_1.12.2-4.15.0.296.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2995/897/jei_1.12.2-4.15.0.297.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -3715,12 +3715,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 563183461,
+            "fingerprint": 2798081484,
             "type": 0
           },
           {
             "foldername": "mezz",
-            "fingerprint": 4148417974,
+            "fingerprint": 1611185798,
             "type": 0
           },
           {
@@ -3730,16 +3730,16 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1738225156,
+            "fingerprint": 1587347909,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3724754525,
+            "fingerprint": 9943101,
             "type": 0
           }
         ],
-        "packageFingerprint": 2316325014,
+        "packageFingerprint": 3997803797,
         "gameVersion": [
           "1.12.2"
         ],
@@ -3752,11 +3752,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "jei_1.12.2-4.15.0.296.jar"
+        "FileNameOnDisk": "jei_1.12.2-4.15.0.297.jar"
       },
       "dateInstalled": "2019-11-25T01:39:36.4119514Z",
-      "dateUpdated": "2020-06-28T00:37:34.6734348Z",
-      "dateLastUpdateAttempted": "2020-06-28T00:37:34.6734348Z",
+      "dateUpdated": "2020-07-11T23:08:23.2574674Z",
+      "dateLastUpdateAttempted": "2020-07-11T23:08:23.2574674Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,

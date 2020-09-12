@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-07-11T23:08:33.2776654Z",
+  "lastPlayed": "2020-09-12T19:03:21.5088486Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -590,21 +590,6 @@
       "fileSize": 4754821
     },
     {
-      "folderName": "jei_1.12.2-4.15.0.292.jar",
-      "fingerprint": 1543061976,
-      "fileDateHash": 369344872,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1543061976
-      ],
-      "status": 1,
-      "timestamp": "2019-11-25T01:39:35.8265168Z",
-      "lastWriteTimeUtc": "2019-11-25T01:39:34.2198135Z",
-      "queryTimestamp": "2019-11-25T01:39:36.0858234Z",
-      "fileCount": 1,
-      "fileSize": 651472
-    },
-    {
       "folderName": "Baubles-1.12-1.5.2.jar",
       "fingerprint": 4247051032,
       "fileDateHash": 114510130,
@@ -618,6 +603,21 @@
       "queryTimestamp": "2019-11-25T01:39:30.7181772Z",
       "fileCount": 1,
       "fileSize": 108450
+    },
+    {
+      "folderName": "jei_1.12.2-4.15.0.292.jar",
+      "fingerprint": 1543061976,
+      "fileDateHash": 369344872,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1543061976
+      ],
+      "status": 1,
+      "timestamp": "2019-11-25T01:39:35.8265168Z",
+      "lastWriteTimeUtc": "2019-11-25T01:39:34.2198135Z",
+      "queryTimestamp": "2019-11-25T01:39:36.0858234Z",
+      "fileCount": 1,
+      "fileSize": 651472
     },
     {
       "folderName": "UniDict-1.12.2-2.9.3.jar",
@@ -663,19 +663,6 @@
       "fileSize": 43764
     },
     {
-      "folderName": "Botania r1.10-362.jar",
-      "fingerprint": 0,
-      "fileDateHash": 2578540334,
-      "sectionID": 8,
-      "individualFingerprints": null,
-      "status": 4,
-      "timestamp": "2019-11-25T01:39:37.8301585Z",
-      "lastWriteTimeUtc": "2019-11-25T01:39:28.2926643Z",
-      "queryTimestamp": "0001-01-01T00:00:00",
-      "fileCount": 1,
-      "fileSize": 671744
-    },
-    {
       "folderName": "reauth-3.6.0.jar",
       "fingerprint": 1809264525,
       "fileDateHash": 627008528,
@@ -689,6 +676,19 @@
       "queryTimestamp": "2019-11-25T01:39:24.5756036Z",
       "fileCount": 1,
       "fileSize": 30446
+    },
+    {
+      "folderName": "Botania r1.10-362.jar",
+      "fingerprint": 0,
+      "fileDateHash": 2578540334,
+      "sectionID": 8,
+      "individualFingerprints": null,
+      "status": 4,
+      "timestamp": "2019-11-25T01:39:37.8301585Z",
+      "lastWriteTimeUtc": "2019-11-25T01:39:28.2926643Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
+      "fileCount": 1,
+      "fileSize": 671744
     }
   ],
   "isValid": true,
@@ -2319,14 +2319,14 @@
       "addonID": 386134,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2986060,
-        "displayName": "FTBUltimine-1.3.3.jar",
-        "fileName": "FTBUltimine-1.3.3.jar",
-        "fileDate": "2020-06-22T21:32:00.213Z",
-        "fileLength": 46663,
+        "id": 3008379,
+        "displayName": "FTBUltimine-1.12-1.3.4.jar",
+        "fileName": "FTBUltimine-1.12-1.3.4.jar",
+        "fileDate": "2020-07-18T18:13:10.443Z",
+        "fileLength": 46328,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2986/60/FTBUltimine-1.3.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3008/379/FTBUltimine-1.12-1.3.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -2334,12 +2334,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3502195935,
+            "fingerprint": 137954545,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 3030716636,
+            "fingerprint": 161309223,
             "type": 0
           },
           {
@@ -2349,11 +2349,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 4171280685,
+            "fingerprint": 3438155893,
             "type": 0
           }
         ],
-        "packageFingerprint": 1930796196,
+        "packageFingerprint": 1218930330,
         "gameVersion": [
           "1.10.2",
           "1.11.2",
@@ -2368,12 +2368,12 @@
         "gameVersionDateReleased": "2016-06-23T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBUltimine-1.3.3.jar"
+        "FileNameOnDisk": "FTBUltimine-1.12-1.3.4.jar"
       },
       "dateInstalled": "2020-06-11T02:28:22.4239868Z",
-      "dateUpdated": "2020-06-28T00:37:13.5284779Z",
-      "dateLastUpdateAttempted": "2020-06-28T00:37:13.5284779Z",
-      "status": 5,
+      "dateUpdated": "2020-09-12T19:02:28.5057969Z",
+      "dateLastUpdateAttempted": "2020-09-12T19:02:28.5057969Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3175,21 +3175,21 @@
       "addonID": 237102,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2990099,
-        "displayName": "FTBUtilities-5.4.1.129.jar",
-        "fileName": "FTBUtilities-5.4.1.129.jar",
-        "fileDate": "2020-06-27T07:51:54.337Z",
-        "fileLength": 425243,
+        "id": 3010492,
+        "displayName": "FTBUtilities-5.4.1.130.jar",
+        "fileName": "FTBUtilities-5.4.1.130.jar",
+        "fileDate": "2020-07-21T09:22:10.453Z",
+        "fileLength": 425249,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2990/99/FTBUtilities-5.4.1.129.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3010/492/FTBUtilities-5.4.1.130.jar",
         "isAlternate": false,
-        "alternateFileId": 2990100,
+        "alternateFileId": 3010493,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 314904,
-            "type": 2,
+            "addonId": 237167,
+            "type": 3,
             "fileId": 0
           },
           {
@@ -3200,8 +3200,8 @@
           },
           {
             "id": 0,
-            "addonId": 237167,
-            "type": 3,
+            "addonId": 314904,
+            "type": 2,
             "fileId": 0
           }
         ],
@@ -3209,12 +3209,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 453366007,
+            "fingerprint": 4136055776,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 3816820484,
+            "fingerprint": 2109097227,
             "type": 0
           },
           {
@@ -3229,11 +3229,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 263980156,
+            "fingerprint": 1634878925,
             "type": 0
           }
         ],
-        "packageFingerprint": 69649077,
+        "packageFingerprint": 1194221997,
         "gameVersion": [
           "1.12.2"
         ],
@@ -3246,12 +3246,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBUtilities-5.4.1.129.jar"
+        "FileNameOnDisk": "FTBUtilities-5.4.1.130.jar"
       },
       "dateInstalled": "2019-11-25T01:39:35.1353649Z",
-      "dateUpdated": "2020-06-28T00:37:16.4167474Z",
-      "dateLastUpdateAttempted": "2020-06-28T00:37:16.4167474Z",
-      "status": 5,
+      "dateUpdated": "2020-09-12T19:02:31.2474708Z",
+      "dateLastUpdateAttempted": "2020-09-12T19:02:31.2474708Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3700,14 +3700,14 @@
       "addonID": 238222,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2995897,
-        "displayName": "jei_1.12.2-4.15.0.297.jar",
-        "fileName": "jei_1.12.2-4.15.0.297.jar",
-        "fileDate": "2020-07-03T22:57:33.617Z",
-        "fileLength": 653150,
+        "id": 3043174,
+        "displayName": "jei_1.12.2-4.16.1.302.jar",
+        "fileName": "jei_1.12.2-4.16.1.302.jar",
+        "fileDate": "2020-08-27T01:47:46.263Z",
+        "fileLength": 653210,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2995/897/jei_1.12.2-4.15.0.297.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -3715,12 +3715,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2798081484,
+            "fingerprint": 457918307,
             "type": 0
           },
           {
             "foldername": "mezz",
-            "fingerprint": 1611185798,
+            "fingerprint": 2799571216,
             "type": 0
           },
           {
@@ -3730,7 +3730,7 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1587347909,
+            "fingerprint": 3001924313,
             "type": 0
           },
           {
@@ -3739,7 +3739,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 3997803797,
+        "packageFingerprint": 1065578237,
         "gameVersion": [
           "1.12.2"
         ],
@@ -3752,11 +3752,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "jei_1.12.2-4.15.0.297.jar"
+        "FileNameOnDisk": "jei_1.12.2-4.16.1.302.jar"
       },
       "dateInstalled": "2019-11-25T01:39:36.4119514Z",
-      "dateUpdated": "2020-07-11T23:08:23.2574674Z",
-      "dateLastUpdateAttempted": "2020-07-11T23:08:23.2574674Z",
+      "dateUpdated": "2020-09-12T19:02:34.2524415Z",
+      "dateLastUpdateAttempted": "2020-09-12T19:02:34.2524415Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,

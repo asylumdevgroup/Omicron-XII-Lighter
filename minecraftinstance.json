@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-10-26T23:48:08.8038074Z",
+  "lastPlayed": "2020-11-23T22:48:30.3090448Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1234,27 +1234,27 @@
       "addonID": 228404,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2844115,
-        "displayName": "ActuallyAdditions-1.12.2-r151-2.jar",
-        "fileName": "ActuallyAdditions-1.12.2-r151-2.jar",
-        "fileDate": "2019-12-17T06:49:49.18Z",
-        "fileLength": 2703860,
+        "id": 3117927,
+        "displayName": "ActuallyAdditions-1.12.2-r152.jar",
+        "fileName": "ActuallyAdditions-1.12.2-r152.jar",
+        "fileDate": "2020-11-20T18:01:16.073Z",
+        "fileLength": 2958699,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2844/115/ActuallyAdditions-1.12.2-r151-2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3117/927/ActuallyAdditions-1.12.2-r152.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "assets",
-            "fingerprint": 310944956,
+            "foldername": "META-INF",
+            "fingerprint": 266674553,
             "type": 0
           },
           {
             "foldername": "de",
-            "fingerprint": 4087395318,
+            "fingerprint": 4122797818,
             "type": 0
           },
           {
@@ -1263,18 +1263,19 @@
             "type": 0
           },
           {
-            "foldername": "mcmod.info",
-            "fingerprint": 2608161579,
+            "foldername": "assets",
+            "fingerprint": 1148916916,
             "type": 0
           },
           {
-            "foldername": "META-INF",
-            "fingerprint": 759819900,
+            "foldername": "mcmod.info",
+            "fingerprint": 2292106983,
             "type": 0
           }
         ],
-        "packageFingerprint": 1671041874,
+        "packageFingerprint": 1923394747,
         "gameVersion": [
+          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -1283,15 +1284,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ActuallyAdditions-1.12.2-r151-2.jar"
+        "FileNameOnDisk": "ActuallyAdditions-1.12.2-r152.jar"
       },
       "dateInstalled": "2019-11-08T01:43:08.8618337Z",
-      "dateUpdated": "2019-12-22T04:44:48.6631223Z",
-      "dateLastUpdateAttempted": "2019-12-22T04:44:48.6631223Z",
-      "status": 5,
+      "dateUpdated": "2020-11-23T22:48:06.6567615Z",
+      "dateLastUpdateAttempted": "2020-11-23T22:48:06.6567615Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2361,7 +2362,7 @@
       "dateInstalled": "2020-06-11T02:28:22.4239868Z",
       "dateUpdated": "2020-10-26T23:47:39.6816371Z",
       "dateLastUpdateAttempted": "2020-10-26T23:47:39.6816371Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4118,7 +4119,7 @@
       "dateInstalled": "2019-11-25T01:39:36.4129483Z",
       "dateUpdated": "2020-10-26T23:47:36.8920953Z",
       "dateLastUpdateAttempted": "2020-10-26T23:47:36.8920953Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

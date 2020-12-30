@@ -127,7 +127,7 @@
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
+            "hoverText" : "ï¿½nCopyright Mojang AB. Do not distribute!",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
@@ -140,7 +140,7 @@
         },
         "packversion":
         {
-            "text" : "ADG Omicron 1 Lighter Edition Version 1.0.19",
+            "text" : "ADG Omicron 1 Lighter Edition Version 1.0.20",
             "posX" : 2,
             "posY" : -50,
             "color" : -1,

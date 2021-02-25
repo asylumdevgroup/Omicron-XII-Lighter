@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-01-09T23:22:40.7302109Z",
+  "lastPlayed": "2021-02-16T01:56:02.523608Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -46,7 +46,7 @@
   "name": "Omicron-XII-Lighter",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-11-25T01:38:47.4788075Z",
+  "lastPreviousMatchUpdate": "2021-01-31T02:52:07.5701978Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -2484,6 +2484,108 @@
       "installedTargets": null
     },
     {
+      "addonID": 244258,
+      "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
+      "installedFile": {
+        "id": 3201828,
+        "displayName": "UniDict-1.12.2-3.0.6.jar",
+        "fileName": "UniDict-1.12.2-3.0.6.jar",
+        "fileDate": "2021-02-12T20:41:21.443Z",
+        "fileLength": 217033,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3201/828/UniDict-1.12.2-3.0.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 3201830,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 253043,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 277047,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 415020,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3367178209,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "wanion",
+            "fingerprint": 2961816069,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3588556054,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2081512886,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "unidictlogo.png",
+            "fingerprint": 3434512620,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3950774697,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "UniDict-1.12.2-3.0.6.jar"
+      },
+      "dateInstalled": "2021-01-09T23:28:16.515519Z",
+      "dateUpdated": "2021-02-16T01:55:53.9593745Z",
+      "dateLastUpdateAttempted": "2021-02-16T01:55:53.9593745Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 228756,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
@@ -3108,7 +3210,7 @@
       "dateInstalled": "2020-12-14T02:25:13.1406447Z",
       "dateUpdated": "2021-01-09T23:22:19.6576001Z",
       "dateLastUpdateAttempted": "2021-01-09T23:22:19.6576001Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

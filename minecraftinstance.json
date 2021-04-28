@@ -30,7 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-03-28T23:47:28.8674972Z",
+  "lastPlayed": "2021-04-28T20:45:54.2301464Z",
+  "playedCount": 1,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2487,23 +2488,17 @@
       "addonID": 244258,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 3240606,
-        "displayName": "UniDict-1.12.2-3.0.7.jar",
-        "fileName": "UniDict-1.12.2-3.0.7.jar",
-        "fileDate": "2021-03-15T20:07:57.593Z",
-        "fileLength": 219991,
+        "id": 3268501,
+        "displayName": "UniDict-1.12.2-3.0.8.jar",
+        "fileName": "UniDict-1.12.2-3.0.8.jar",
+        "fileDate": "2021-04-07T18:23:06.427Z",
+        "fileLength": 220064,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3240/606/UniDict-1.12.2-3.0.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3268/501/UniDict-1.12.2-3.0.8.jar",
         "isAlternate": false,
-        "alternateFileId": 3240608,
+        "alternateFileId": 3268502,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 277047,
-            "type": 2,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 253043,
@@ -2512,7 +2507,7 @@
           },
           {
             "id": 0,
-            "addonId": 415020,
+            "addonId": 277047,
             "type": 2,
             "fileId": 0
           },
@@ -2521,25 +2516,31 @@
             "addonId": 239197,
             "type": 2,
             "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 415020,
+            "type": 2,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3774338251,
+            "fingerprint": 2000663793,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "wanion",
-            "fingerprint": 1936917426,
+            "fingerprint": 2904632748,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2953164361,
+            "fingerprint": 1709809643,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2556,7 +2557,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 32223528,
+        "packageFingerprint": 1725348470,
         "gameVersion": [
           "1.12.2"
         ],
@@ -2569,11 +2570,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "UniDict-1.12.2-3.0.7.jar"
+        "FileNameOnDisk": "UniDict-1.12.2-3.0.8.jar"
       },
       "dateInstalled": "2021-01-09T23:28:16.515519Z",
-      "dateUpdated": "2021-03-28T23:46:54.1297886Z",
-      "dateLastUpdateAttempted": "2021-03-28T23:46:54.1297886Z",
+      "dateUpdated": "2021-04-28T20:45:05.307698Z",
+      "dateLastUpdateAttempted": "2021-04-28T20:45:05.307698Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,

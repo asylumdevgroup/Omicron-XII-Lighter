@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-04-28T20:45:54.2301464Z",
-  "playedCount": 1,
+  "lastPlayed": "2021-08-03T23:30:30.3971849Z",
+  "playedCount": 2,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -48,9 +48,11 @@
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "2021-01-31T02:52:07.5701978Z",
+  "lastRefreshAttempt": "0001-01-01T00:00:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
+  "gameVersionFlavor": null,
   "preferenceAlternateFile": false,
   "preferenceAutoInstallUpdates": false,
   "preferenceQuickDeleteLibraries": true,
@@ -1265,14 +1267,14 @@
       "addonID": 278494,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 3137883,
-        "displayName": "FoamFix 0.10.11 (1.12.2)",
-        "fileName": "foamfix-0.10.11-1.12.2.jar",
-        "fileDate": "2020-12-13T21:59:32.83Z",
-        "fileLength": 210423,
+        "id": 3327893,
+        "displayName": "FoamFix 0.10.14 (1.12.2)",
+        "fileName": "foamfix-0.10.14-1.12.2.jar",
+        "fileDate": "2021-05-28T06:54:30.367Z",
+        "fileLength": 242897,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3137/883/foamfix-0.10.11-1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3327/893/foamfix-0.10.14-1.12.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -1280,7 +1282,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1665271421,
+            "fingerprint": 2804185603,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1292,7 +1294,7 @@
           },
           {
             "foldername": "foamfix_runtime_at.cfg",
-            "fingerprint": 2504249573,
+            "fingerprint": 3277189722,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1304,18 +1306,18 @@
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 3033825429,
+            "fingerprint": 1257586546,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "pl",
-            "fingerprint": 1255985834,
+            "fingerprint": 3105475686,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3300724371,
+        "packageFingerprint": 2480667074,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -1329,12 +1331,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "foamfix-0.10.11-1.12.2.jar"
+        "FileNameOnDisk": "foamfix-0.10.14-1.12.2.jar"
       },
       "dateInstalled": "2020-12-14T02:23:47.2026975Z",
-      "dateUpdated": "2020-12-14T02:23:47.2036978Z",
-      "dateLastUpdateAttempted": "2020-12-14T02:23:47.2036978Z",
-      "status": 5,
+      "dateUpdated": "2021-08-03T23:30:10.3705561Z",
+      "dateLastUpdateAttempted": "2021-08-03T23:30:10.3705561Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1972,14 +1974,14 @@
       "addonID": 225643,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2846950,
-        "displayName": "Botania r1.10-363.jar",
-        "fileName": "Botania r1.10-363.jar",
-        "fileDate": "2019-12-22T18:40:54.207Z",
-        "fileLength": 13814617,
+        "id": 3330934,
+        "displayName": "Botania r1.10-364.4.jar",
+        "fileName": "Botania r1.10-364.4.jar",
+        "fileDate": "2021-05-31T15:12:49.31Z",
+        "fileLength": 13817704,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2846/950/Botania r1.10-363.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3330/934/Botania r1.10-364.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -1991,20 +1993,14 @@
           },
           {
             "id": 0,
-            "addonId": 227083,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 275300,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
             "addonId": 238222,
             "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 3,
             "fileId": 0
           }
         ],
@@ -2012,25 +2008,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 156022543,
+            "fingerprint": 4074037441,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "vazkii",
-            "fingerprint": 498055877,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2001698494,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 582579411,
+            "fingerprint": 3675882,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2039,9 +2023,21 @@
             "fingerprint": 1152924348,
             "type": 0,
             "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4206274848,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1923406233,
+            "type": 0,
+            "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3763127432,
+        "packageFingerprint": 2263235725,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -2055,12 +2051,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Botania r1.10-363.jar"
+        "FileNameOnDisk": "Botania r1.10-364.4.jar"
       },
       "dateInstalled": "2020-12-14T02:27:10.9230915Z",
-      "dateUpdated": "2020-12-14T02:27:10.9390965Z",
-      "dateLastUpdateAttempted": "2020-12-14T02:27:10.9390965Z",
-      "status": 5,
+      "dateUpdated": "2021-08-03T23:30:08.9101816Z",
+      "dateLastUpdateAttempted": "2021-08-03T23:30:08.9101816Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2575,7 +2571,7 @@
       "dateInstalled": "2021-01-09T23:28:16.515519Z",
       "dateUpdated": "2021-04-28T20:45:05.307698Z",
       "dateLastUpdateAttempted": "2021-04-28T20:45:05.307698Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2969,34 +2965,28 @@
       "addonID": 60089,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 2671937,
-        "displayName": "[1.12.2] Mouse Tweaks 2.10",
-        "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
-        "fileDate": "2019-02-11T11:33:40.123Z",
-        "fileLength": 75170,
-        "releaseType": 1,
+        "id": 3359843,
+        "displayName": "[1.12.2] Mouse Tweaks 2.10.1",
+        "fileName": "MouseTweaks-2.10.1-mc1.12.2.jar",
+        "fileDate": "2021-06-21T14:53:42.733Z",
+        "fileLength": 80528,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3359/843/MouseTweaks-2.10.1-mc1.12.2.jar",
         "isAlternate": false,
-        "alternateFileId": 2671938,
+        "alternateFileId": 3359844,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3802495670,
+            "fingerprint": 2391897615,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "yalter",
-            "fingerprint": 2419623870,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "litemod.json",
-            "fingerprint": 3374986446,
+            "fingerprint": 3489931899,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3007,13 +2997,25 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 354461813,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "litemod.json",
+            "fingerprint": 3374986446,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "mcmod.info",
-            "fingerprint": 101733854,
+            "fingerprint": 47210613,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 533666569,
+        "packageFingerprint": 2265859872,
         "gameVersion": [
           "1.12.2"
         ],
@@ -3023,15 +3025,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "MouseTweaks-2.10-mc1.12.2.jar"
+        "FileNameOnDisk": "MouseTweaks-2.10.1-mc1.12.2.jar"
       },
       "dateInstalled": "2020-12-14T02:21:36.2762842Z",
-      "dateUpdated": "2020-12-14T02:21:36.2772837Z",
-      "dateLastUpdateAttempted": "2020-12-14T02:21:36.2772837Z",
-      "status": 5,
+      "dateUpdated": "2021-08-03T23:30:11.8004059Z",
+      "dateLastUpdateAttempted": "2021-08-03T23:30:11.8004059Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3440,5 +3442,6 @@
     }
   ],
   "isMigrated": false,
-  "preferenceUploadProfile": false
+  "preferenceUploadProfile": false,
+  "wasNameManuallyChanged": false
 }

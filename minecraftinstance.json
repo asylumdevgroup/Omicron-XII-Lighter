@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-12-21T02:43:49.9813986Z",
-  "playedCount": 3,
+  "lastPlayed": "2021-12-31T21:23:24.9644985Z",
+  "playedCount": 4,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -183,21 +183,6 @@
       "fileSize": 704330
     },
     {
-      "folderName": "appliedenergistics2-rv6-stable-7.jar",
-      "fingerprint": 3112664858,
-      "fileDateHash": 96111875,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3112664858
-      ],
-      "status": 1,
-      "timestamp": "2021-08-29T01:43:57.2719996Z",
-      "lastWriteTimeUtc": "2020-12-14T02:26:17.9742793Z",
-      "queryTimestamp": "0001-01-01T00:00:00",
-      "fileCount": 1,
-      "fileSize": 4062630
-    },
-    {
       "folderName": "foamfix-0.10.14-1.12.2.jar",
       "fingerprint": 2480667074,
       "fileDateHash": 2846870902,
@@ -211,6 +196,21 @@
       "queryTimestamp": "0001-01-01T00:00:00",
       "fileCount": 1,
       "fileSize": 242897
+    },
+    {
+      "folderName": "appliedenergistics2-rv6-stable-7.jar",
+      "fingerprint": 3112664858,
+      "fileDateHash": 96111875,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3112664858
+      ],
+      "status": 1,
+      "timestamp": "2021-08-29T01:43:57.2719996Z",
+      "lastWriteTimeUtc": "2020-12-14T02:26:17.9742793Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
+      "fileCount": 1,
+      "fileSize": 4062630
     },
     {
       "folderName": "Chisel-MC1.12.2-1.0.2.45.jar",
@@ -2047,40 +2047,40 @@
       "addonID": 253043,
       "gameInstanceID": "8f0dfe70-1e28-4209-a99a-b7a0df7628ad",
       "installedFile": {
-        "id": 3558524,
-        "displayName": "WanionLib-1.12.2-2.7.jar",
-        "fileName": "WanionLib-1.12.2-2.7.jar",
-        "fileDate": "2021-12-10T18:50:23.81Z",
-        "fileLength": 217225,
+        "id": 3577911,
+        "displayName": "WanionLib-1.12.2-2.8.jar",
+        "fileName": "WanionLib-1.12.2-2.8.jar",
+        "fileDate": "2021-12-23T13:48:35.067Z",
+        "fileLength": 220616,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3558/524/WanionLib-1.12.2-2.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3577/911/WanionLib-1.12.2-2.8.jar",
         "isAlternate": false,
-        "alternateFileId": 3558525,
+        "alternateFileId": 3577915,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1269441524,
+            "fingerprint": 1134185887,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "wanion",
-            "fingerprint": 4061172516,
+            "fingerprint": 3593966216,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3160629718,
+            "fingerprint": 749522786,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 587826631,
+            "fingerprint": 3624763365,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -2091,7 +2091,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3486510525,
+        "packageFingerprint": 244550551,
         "gameVersion": [
           "1.12.2"
         ],
@@ -2109,19 +2109,19 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2623800,
+        "renderCacheId": 2646795,
         "projectId": 253043,
-        "packageFingerprintId": 804806854,
+        "packageFingerprintId": 816943816,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 3549597,
+        "gameVersionMappingId": 3598732,
         "gameVersionId": 4458,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "WanionLib-1.12.2-2.7.jar"
+        "FileNameOnDisk": "WanionLib-1.12.2-2.8.jar"
       },
       "dateInstalled": "2020-12-14T02:24:25.4956793Z",
-      "dateUpdated": "2021-12-21T02:43:42.0353495Z",
-      "dateLastUpdateAttempted": "2021-12-21T02:43:42.0353495Z",
+      "dateUpdated": "2021-12-31T21:23:17.4305199Z",
+      "dateLastUpdateAttempted": "2021-12-31T21:23:17.4305199Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -2825,7 +2825,7 @@
       "dateInstalled": "2021-01-09T23:28:16.515519Z",
       "dateUpdated": "2021-12-21T02:43:40.5383488Z",
       "dateLastUpdateAttempted": "2021-12-21T02:43:40.5383488Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

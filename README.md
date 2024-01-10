@@ -1,9 +1,10 @@
-# Omicron-XII-Lighter
+# ADG Omicron 1 Lighter Edition
 An even smaller version of ADG Omicron XII, designed to run on truly "potato" PCs.
 
 ## Modlist
 * Actually Additions (by Ellpeck)
-* AE2 Unofficial Extended Life (by PrototypeTrousers)
+* AE2 Unofficial Extended Life (by notmywing)
+* Alfheim Lighting Engine (by Desoroxxx)
 * AppleSkin (by squeek502)
 * AutoRegLib (by Vazkii)
 * Baubles (by Azanor13)
@@ -23,13 +24,14 @@ An even smaller version of ADG Omicron XII, designed to run on truly "potato" PC
 * FTB Ultimine (Forge) (by FTB)
 * FTB Utilities (Forge) (by FTB)
 * Had Enough Items (by CleanroomMC)
-* Inventory Tweaks \[1.12 only\] (by JimeoWan)
+* Inventory Bogo Sorter (by brachy84)
 * Iron Chests (by ProgWML6)
 * JourneyMap (by techbrew)
 * Just Enough Resources (JER) (by way2muchnoise)
 * Mantle (by mDiyo)
 * MixinBooter (by CleanroomMC)
 * Mod Name Tooltip (by mezz)
+* ModularUI (by CleanroomMC)
 * More Overlays (by feldim245)
 * Mouse Tweaks Unofficial (by CleanroomMC)
 * OAuth (by Sintinium)
@@ -37,7 +39,8 @@ An even smaller version of ADG Omicron XII, designed to run on truly "potato" PC
 * OpenModsLib (by OpenMods)
 * Pam's HarvestCraft (by pamharvestcraft)
 * Placebo (by Shadows_of_Fire)
-* Quark (by Vazkii)
+* Quark: RotN Edition (by asterixxxxxxxxxxxxxx)
+* Red Core (by Desoroxxx)
 * Resource Loader (by Lumien231)
 * SerializationIsBad (by Dogboy21)
 * Storage Drawers (by Texelsaur)
